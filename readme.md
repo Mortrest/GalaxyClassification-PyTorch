@@ -1,0 +1,3 @@
+# Galaxy Classification using PyTorch
+
+In this project, I worked on the galaxy classification task, where my main goal was to explore PyTorch. Throughout this project, I used PyTorch to create and deploy a Multi-Layer Perceptron (MLP) model to tackle a classification problem. My specific aim was to accurately categorize galaxy images into four distinct classes: ellipticals, lenticulars, spirals, and irregulars. I used the EFIGI dataset, which contains a collection of 4458 galaxy images. 
